@@ -1,0 +1,1744 @@
+{
+    "resumen_general": {
+        "total": 18231,
+        "asistencia": 58.4,
+        "retardo": 0.0,
+        "falta": 41.6
+    },
+    "por_profesor": [
+        {
+            "PROFESOR": "ACEVES - CABRERA LUIS FERNANDO",
+            "FALTA": 26,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "ACLE - MENA RAMON SEBASTIAN",
+            "FALTA": 17,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "ACOSTA - PEREZPENA GUSTAVO ALBERTO",
+            "FALTA": 41,
+            "PUNTUAL": 26,
+            "TOLERANCIA": 27
+        },
+        {
+            "PROFESOR": "AGUILA - GARCIA ADORACION",
+            "FALTA": 10,
+            "PUNTUAL": 9,
+            "TOLERANCIA": 26
+        },
+        {
+            "PROFESOR": "AGUILA - VELASCO RICARDO",
+            "FALTA": 7,
+            "PUNTUAL": 23,
+            "TOLERANCIA": 30
+        },
+        {
+            "PROFESOR": "AGUIRRE - SOLANO CAROLINA",
+            "FALTA": 5,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "AHUMADA - FORTIZ ALEJANDRO",
+            "FALTA": 34,
+            "PUNTUAL": 26,
+            "TOLERANCIA": 30
+        },
+        {
+            "PROFESOR": "ALCARAZ - BARRIOS MARISOL",
+            "FALTA": 11,
+            "PUNTUAL": 13,
+            "TOLERANCIA": 8
+        },
+        {
+            "PROFESOR": "ALONSO - GARCIA MONICA",
+            "FALTA": 31,
+            "PUNTUAL": 12,
+            "TOLERANCIA": 37
+        },
+        {
+            "PROFESOR": "ALVAREZ - CUSPINERA JUAN RAMON",
+            "FALTA": 1,
+            "PUNTUAL": 32,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "ALVAREZ - PONCE MARIA FERNANDA",
+            "FALTA": 34,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "AMARO - RODRIGUEZ ALEJANDRA",
+            "FALTA": 6,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "AMBRIZ - MORALES JESUS",
+            "FALTA": 2,
+            "PUNTUAL": 16,
+            "TOLERANCIA": 42
+        },
+        {
+            "PROFESOR": "ARCEGA - JARAMILLO ERNESTINA PATRICIA",
+            "FALTA": 4,
+            "PUNTUAL": 9,
+            "TOLERANCIA": 2
+        },
+        {
+            "PROFESOR": "ARMAS - TORRES VIDAL",
+            "FALTA": 22,
+            "PUNTUAL": 23,
+            "TOLERANCIA": 12
+        },
+        {
+            "PROFESOR": "ARROYO - MERCADO LUIS ALEJANDRO",
+            "FALTA": 129,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "BAEZ - AGUILAR VALERIA LEISSEL",
+            "FALTA": 24,
+            "PUNTUAL": 38,
+            "TOLERANCIA": 33
+        },
+        {
+            "PROFESOR": "BAEZ - DIAZ CONTI BLANCA GUADALUPE",
+            "FALTA": 2,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "BANUELOS - ROMERO JORGE ALBERTO",
+            "FALTA": 11,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "BECERRA - DONCEL GUADALUPE",
+            "FALTA": 49,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 49
+        },
+        {
+            "PROFESOR": "BEDOLLA - SALAS JUAN CARLOS",
+            "FALTA": 32,
+            "PUNTUAL": 35,
+            "TOLERANCIA": 23
+        },
+        {
+            "PROFESOR": "BENITEZ - ARMENTA JAIME FRANCISCO",
+            "FALTA": 6,
+            "PUNTUAL": 34,
+            "TOLERANCIA": 20
+        },
+        {
+            "PROFESOR": "BERNARDINO - TOXQUI ARMANDO",
+            "FALTA": 15,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 24
+        },
+        {
+            "PROFESOR": "BERRUECOS - MUNOZ MA DEL SOCORRO",
+            "FALTA": 12,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "BLANCO - SILVA ROBERTO CARLOS",
+            "FALTA": 31,
+            "PUNTUAL": 30,
+            "TOLERANCIA": 32
+        },
+        {
+            "PROFESOR": "BLAZQUEZ - BONILLA ELIETH",
+            "FALTA": 39,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 30
+        },
+        {
+            "PROFESOR": "BONILLA - MALDONADO NICOLAS",
+            "FALTA": 82,
+            "PUNTUAL": 7,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "BRIONES - HERNANDEZ MARIA ELBA",
+            "FALTA": 69,
+            "PUNTUAL": 16,
+            "TOLERANCIA": 32
+        },
+        {
+            "PROFESOR": "BURGUETE - GARCIA MARIO ANTONIO",
+            "FALTA": 10,
+            "PUNTUAL": 33,
+            "TOLERANCIA": 17
+        },
+        {
+            "PROFESOR": "CABRERA - LEZAMA CITLALLI AYUTZI",
+            "FALTA": 30,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 19
+        },
+        {
+            "PROFESOR": "CAJICA - LOPEZ CLAUDIA",
+            "FALTA": 13,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 13
+        },
+        {
+            "PROFESOR": "CALDERON - MORA EMILIO ADOLFO",
+            "FALTA": 54,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 8
+        },
+        {
+            "PROFESOR": "CANDIA - DIAZ MARIA DEL ROSARIO",
+            "FALTA": 39,
+            "PUNTUAL": 13,
+            "TOLERANCIA": 10
+        },
+        {
+            "PROFESOR": "CAPETILLO - BALTASAR CLAUDIA",
+            "FALTA": 12,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "CARBAJAL - ALCANTARA JOSE ANTONIO",
+            "FALTA": 36,
+            "PUNTUAL": 23,
+            "TOLERANCIA": 5
+        },
+        {
+            "PROFESOR": "CARDENAS - HERNANDEZ JOSE ROMAN",
+            "FALTA": 33,
+            "PUNTUAL": 10,
+            "TOLERANCIA": 27
+        },
+        {
+            "PROFESOR": "CARMONA - MORALES LIZBETH",
+            "FALTA": 4,
+            "PUNTUAL": 9,
+            "TOLERANCIA": 22
+        },
+        {
+            "PROFESOR": "CARMONA - SILVA JOSE LUIS",
+            "FALTA": 58,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 44
+        },
+        {
+            "PROFESOR": "CARRASCO - ROMERO VICTOR JOSAPHAT",
+            "FALTA": 57,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "CARRENO - CONTRERAS ALVARO ANTONIO",
+            "FALTA": 38,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 19
+        },
+        {
+            "PROFESOR": "CARRETO - MACIAS FERNANDO",
+            "FALTA": 39,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "CARRILLO - MALDONADO FRANCISCO",
+            "FALTA": 22,
+            "PUNTUAL": 34,
+            "TOLERANCIA": 23
+        },
+        {
+            "PROFESOR": "CASARRUBIAS - SANCHEZ CESAR GUADALUPE",
+            "FALTA": 7,
+            "PUNTUAL": 23,
+            "TOLERANCIA": 34
+        },
+        {
+            "PROFESOR": "CASTELLANOS - VAZQUEZ JAVIER",
+            "FALTA": 7,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "CASTILLO - ESPINOZA GABRIEL",
+            "FALTA": 2,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "CASTRO - OLVERA RODOLFO",
+            "FALTA": 16,
+            "PUNTUAL": 19,
+            "TOLERANCIA": 48
+        },
+        {
+            "PROFESOR": "CERECEDA - AVILA MARIA DEL MAR GISELA",
+            "FALTA": 7,
+            "PUNTUAL": 15,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "CERON - CARRILLO TERESA GLADYS",
+            "FALTA": 56,
+            "PUNTUAL": 16,
+            "TOLERANCIA": 18
+        },
+        {
+            "PROFESOR": "CESIN - ANDRADE GEORGINA",
+            "FALTA": 13,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 8
+        },
+        {
+            "PROFESOR": "CHAVEZ - JIMENEZ JOSE ANTONIO",
+            "FALTA": 44,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "CONTRERAS - BARBA BELINDA",
+            "FALTA": 28,
+            "PUNTUAL": 9,
+            "TOLERANCIA": 8
+        },
+        {
+            "PROFESOR": "CORDERO - GAMBOA JUAN ROBERTO",
+            "FALTA": 22,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "CORDOVA - CORTAZAR MARIA ALICIA",
+            "FALTA": 6,
+            "PUNTUAL": 12,
+            "TOLERANCIA": 13
+        },
+        {
+            "PROFESOR": "CORTES - MORENO JORGE DAVID",
+            "FALTA": 15,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "CORTES - SANCHEZ MARIANA BETZAIDET",
+            "FALTA": 17,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 44
+        },
+        {
+            "PROFESOR": "CRUZ - CERVANTES ANA ADELA",
+            "FALTA": 59,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 58
+        },
+        {
+            "PROFESOR": "CRUZ - HERNANDEZ ANDRES",
+            "FALTA": 19,
+            "PUNTUAL": 9,
+            "TOLERANCIA": 21
+        },
+        {
+            "PROFESOR": "CRUZ - LOPEZ MARIA SILVIA CONCEPCION",
+            "FALTA": 1,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "DE LOS SANTOS - PEREZ ELOISA",
+            "FALTA": 5,
+            "PUNTUAL": 9,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "DE ROMAN - MELLO VICTOR HUGO",
+            "FALTA": 17,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "DEL ROSARIO - HUITZIL RICARDO",
+            "FALTA": 17,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "DEL VILLAR - NIEVA MARIA DEL SOCORRO",
+            "FALTA": 2,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "DIAZ - CARREON GRACIELA",
+            "FALTA": 23,
+            "PUNTUAL": 8,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "DIAZ - FLORES SERGIO",
+            "FALTA": 15,
+            "PUNTUAL": 17,
+            "TOLERANCIA": 43
+        },
+        {
+            "PROFESOR": "DIAZ - MOLINA JOSE FERNANDO",
+            "FALTA": 33,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 50
+        },
+        {
+            "PROFESOR": "DIAZ - PEREZ RICARDO",
+            "FALTA": 42,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 23
+        },
+        {
+            "PROFESOR": "DIMAS - OLEA ALICIA",
+            "FALTA": 22,
+            "PUNTUAL": 31,
+            "TOLERANCIA": 41
+        },
+        {
+            "PROFESOR": "DOMINGUEZ - ALONSO YHISELL",
+            "FALTA": 26,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 13
+        },
+        {
+            "PROFESOR": "DOMINGUEZ - SOTO JOSE ALFONSO",
+            "FALTA": 2,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "ESPINOSA - CRISPIN BEATRIZ ALEJANDRA",
+            "FALTA": 36,
+            "PUNTUAL": 55,
+            "TOLERANCIA": 52
+        },
+        {
+            "PROFESOR": "FERNANDEZ - CUEVAS HECTOR",
+            "FALTA": 2,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 2
+        },
+        {
+            "PROFESOR": "FERRER - MARTINEZ JAZMIN TANIA",
+            "FALTA": 80,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "FLORES - BAUTISTA EDGAR",
+            "FALTA": 34,
+            "PUNTUAL": 21,
+            "TOLERANCIA": 20
+        },
+        {
+            "PROFESOR": "FLORES - CALYECA CARINA",
+            "FALTA": 12,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "FLORES - NEGRETE MARIA DE LA LUZ",
+            "FALTA": 67,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 9
+        },
+        {
+            "PROFESOR": "FLORES - TREVINO ELIZABETH",
+            "FALTA": 63,
+            "PUNTUAL": 17,
+            "TOLERANCIA": 34
+        },
+        {
+            "PROFESOR": "GALAZ - VEGA ROSA DE LAS NIEVES",
+            "FALTA": 36,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 9
+        },
+        {
+            "PROFESOR": "GALICIA - VELEZ JOSE GERARDO",
+            "FALTA": 17,
+            "PUNTUAL": 23,
+            "TOLERANCIA": 24
+        },
+        {
+            "PROFESOR": "GARCIA - ALARCON IRMA ANGELICA",
+            "FALTA": 52,
+            "PUNTUAL": 12,
+            "TOLERANCIA": 26
+        },
+        {
+            "PROFESOR": "GARCIA - CAMACHO GUADALUPE ALBERTO",
+            "FALTA": 58,
+            "PUNTUAL": 7,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "GARCIA - CARAVEO JOSE LAZARO",
+            "FALTA": 11,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 68
+        },
+        {
+            "PROFESOR": "GARCIA - CASTILLO LUIS ENRIQUE",
+            "FALTA": 24,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "GARCIA - DAVILA FRANCISCO JAVIER",
+            "FALTA": 22,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "GARCIA - RAMOS ALMA LETICIA",
+            "FALTA": 10,
+            "PUNTUAL": 31,
+            "TOLERANCIA": 42
+        },
+        {
+            "PROFESOR": "GARCIA - RIOS HIDALIA",
+            "FALTA": 40,
+            "PUNTUAL": 22,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "GARCIA - Y GARCIA ERNESTO",
+            "FALTA": 9,
+            "PUNTUAL": 103,
+            "TOLERANCIA": 28
+        },
+        {
+            "PROFESOR": "GARCIA CANO - MORA JESUS LUDWING",
+            "FALTA": 60,
+            "PUNTUAL": 16,
+            "TOLERANCIA": 11
+        },
+        {
+            "PROFESOR": "GOMEZ - ABAD PATRICIO",
+            "FALTA": 30,
+            "PUNTUAL": 26,
+            "TOLERANCIA": 35
+        },
+        {
+            "PROFESOR": "GONZALEZ - RAMIREZ MISAEL",
+            "FALTA": 19,
+            "PUNTUAL": 22,
+            "TOLERANCIA": 34
+        },
+        {
+            "PROFESOR": "GONZALEZ - RIVERA COLUMBA",
+            "FALTA": 19,
+            "PUNTUAL": 29,
+            "TOLERANCIA": 31
+        },
+        {
+            "PROFESOR": "GONZALEZ - SANTIAGO MARIA ESTHER",
+            "FALTA": 71,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 22
+        },
+        {
+            "PROFESOR": "GONZALEZ - TREJO JOSE ROBERTO",
+            "FALTA": 40,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "GONZALO - UGARTE CARLOS ALBERTO",
+            "FALTA": 16,
+            "PUNTUAL": 90,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "GUATEMALA - VILLALOBOS ARACELI MARIA DE JESUS",
+            "FALTA": 29,
+            "PUNTUAL": 67,
+            "TOLERANCIA": 24
+        },
+        {
+            "PROFESOR": "GUTIERREZ - CUBA MARIA MAGDALENA",
+            "FALTA": 23,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "GUTIERREZ - OCHOA FRANCISCO MANUEL",
+            "FALTA": 11,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "GUTIERREZ - TERRON FRANCISCO MANUEL",
+            "FALTA": 18,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 15
+        },
+        {
+            "PROFESOR": "HARO - BENITEZ MARGARITA",
+            "FALTA": 35,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 49
+        },
+        {
+            "PROFESOR": "HERNANDEZ - CARRASCO HUGO ERNESTO",
+            "FALTA": 26,
+            "PUNTUAL": 12,
+            "TOLERANCIA": 22
+        },
+        {
+            "PROFESOR": "HERNANDEZ - CARREON NADIA VIANNEY",
+            "FALTA": 1,
+            "PUNTUAL": 24,
+            "TOLERANCIA": 20
+        },
+        {
+            "PROFESOR": "HERNANDEZ - HUESCA MARIA ENITH",
+            "FALTA": 21,
+            "PUNTUAL": 28,
+            "TOLERANCIA": 26
+        },
+        {
+            "PROFESOR": "HERNANDEZ - JIMENEZ ROSA MARIA",
+            "FALTA": 35,
+            "PUNTUAL": 25,
+            "TOLERANCIA": 30
+        },
+        {
+            "PROFESOR": "HERNANDEZ - MENDOZA MINERVA",
+            "FALTA": 2,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "HERNANDEZ - NAVA TERESA",
+            "FALTA": 18,
+            "PUNTUAL": 9,
+            "TOLERANCIA": 22
+        },
+        {
+            "PROFESOR": "HERNANDEZ - PEREZ BENITO",
+            "FALTA": 26,
+            "PUNTUAL": 13,
+            "TOLERANCIA": 21
+        },
+        {
+            "PROFESOR": "HERNANDEZ - VIVANCO GUADALUPE ARNULFO",
+            "FALTA": 20,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 37
+        },
+        {
+            "PROFESOR": "HERRERA - ARELLANO GEMA ELISA",
+            "FALTA": 1,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "HERRERA - HUERTA HERICK",
+            "FALTA": 33,
+            "PUNTUAL": 28,
+            "TOLERANCIA": 56
+        },
+        {
+            "PROFESOR": "HERRERA - LOPEZ BEATRIZ",
+            "FALTA": 9,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 14
+        },
+        {
+            "PROFESOR": "HERRERA - OLVERA ALEJANDRO",
+            "FALTA": 11,
+            "PUNTUAL": 20,
+            "TOLERANCIA": 14
+        },
+        {
+            "PROFESOR": "HUERTA - MORA RAMON",
+            "FALTA": 35,
+            "PUNTUAL": 20,
+            "TOLERANCIA": 5
+        },
+        {
+            "PROFESOR": "INIGUEZ - ALVAREZ DIANA PAOLA",
+            "FALTA": 0,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "ISLAS - TAPIA EVELINA",
+            "FALTA": 25,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 46
+        },
+        {
+            "PROFESOR": "IZAZAGA - PEREZ IRENE",
+            "FALTA": 55,
+            "PUNTUAL": 12,
+            "TOLERANCIA": 8
+        },
+        {
+            "PROFESOR": "JAIME URSUA - CHANES ROSA MARIA",
+            "FALTA": 35,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 21
+        },
+        {
+            "PROFESOR": "JIMENEZ - MARTINEZ LUCETT GUADALUPE",
+            "FALTA": 51,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 35
+        },
+        {
+            "PROFESOR": "JUAREZ - BENAVIDES ELIA",
+            "FALTA": 44,
+            "PUNTUAL": 32,
+            "TOLERANCIA": 14
+        },
+        {
+            "PROFESOR": "JUAREZ - DE LA HIDALGA ROBERTO",
+            "FALTA": 19,
+            "PUNTUAL": 15,
+            "TOLERANCIA": 26
+        },
+        {
+            "PROFESOR": "JUAREZ - DIAZ CATALINA",
+            "FALTA": 6,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "JUAREZ - FONSECA VERONICA",
+            "FALTA": 6,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "JUAREZ - HERNANDEZ JUAN MIGUEL",
+            "FALTA": 41,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 35
+        },
+        {
+            "PROFESOR": "JUAREZ - MENDOZA ESTHER FRANCOISE",
+            "FALTA": 22,
+            "PUNTUAL": 7,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "JUAREZ - MOYA ARTURO",
+            "FALTA": 97,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "LAGUNES - REYES SEBASTIAN ALFONSO",
+            "FALTA": 6,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "LARGO - LOME MARIA DE LA CRUZ",
+            "FALTA": 21,
+            "PUNTUAL": 35,
+            "TOLERANCIA": 30
+        },
+        {
+            "PROFESOR": "LARGO - PEREZ ALVARO",
+            "FALTA": 57,
+            "PUNTUAL": 42,
+            "TOLERANCIA": 21
+        },
+        {
+            "PROFESOR": "LARIOS - GOMEZ EMIGDIO",
+            "FALTA": 7,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "LARIOS - SANCHEZ JOSE MAURO",
+            "FALTA": 12,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "LARIOS - VELAZQUEZ PILAR GUADALUPE",
+            "FALTA": 43,
+            "PUNTUAL": 41,
+            "TOLERANCIA": 48
+        },
+        {
+            "PROFESOR": "LEON - DE LA ROSA RAQUEL ISAMARA",
+            "FALTA": 9,
+            "PUNTUAL": 15,
+            "TOLERANCIA": 25
+        },
+        {
+            "PROFESOR": "LETECHIPIA - ANZALDO MARTIN EMMANUEL",
+            "FALTA": 19,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "LEZAMA - ALVAREZ RUFINA",
+            "FALTA": 37,
+            "PUNTUAL": 7,
+            "TOLERANCIA": 12
+        },
+        {
+            "PROFESOR": "LIMA - SANCHEZ JOSE ANTONIO",
+            "FALTA": 29,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "LIRA - GUTIERREZ ARMANDO",
+            "FALTA": 15,
+            "PUNTUAL": 47,
+            "TOLERANCIA": 13
+        },
+        {
+            "PROFESOR": "LOO - DIAZ CLAUDIA MARIBELL",
+            "FALTA": 9,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "LOPEZ - CADENA ZOILA",
+            "FALTA": 53,
+            "PUNTUAL": 39,
+            "TOLERANCIA": 28
+        },
+        {
+            "PROFESOR": "LOPEZ - FLORES MARCO ANTONIO",
+            "FALTA": 34,
+            "PUNTUAL": 58,
+            "TOLERANCIA": 34
+        },
+        {
+            "PROFESOR": "LOPEZ - GONZALEZ MARIO",
+            "FALTA": 12,
+            "PUNTUAL": 7,
+            "TOLERANCIA": 9
+        },
+        {
+            "PROFESOR": "LOPEZ - PALACIOS MARIA DE LOURDES",
+            "FALTA": 20,
+            "PUNTUAL": 33,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "LOPEZ - PEREZ FLORA LETICIA",
+            "FALTA": 45,
+            "PUNTUAL": 19,
+            "TOLERANCIA": 28
+        },
+        {
+            "PROFESOR": "LOPEZ - RUIZ MARIA TERESA",
+            "FALTA": 19,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 2
+        },
+        {
+            "PROFESOR": "LUNA - VAZQUEZ ALEJANDRO",
+            "FALTA": 75,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "MALACON - ORTIZ MARIA CRISTINA",
+            "FALTA": 34,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 21
+        },
+        {
+            "PROFESOR": "MALDONADO - RESENDIZ JORGE ANGEL",
+            "FALTA": 9,
+            "PUNTUAL": 16,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "MALPICA - MILLAN MARIA DE LOS ANGELES",
+            "FALTA": 18,
+            "PUNTUAL": 26,
+            "TOLERANCIA": 20
+        },
+        {
+            "PROFESOR": "MARIN - BERTTOLINI CLAUDIA CRISTELL",
+            "FALTA": 10,
+            "PUNTUAL": 49,
+            "TOLERANCIA": 32
+        },
+        {
+            "PROFESOR": "MARQUEZ - CAMARILLO RUFINO ASUNCION",
+            "FALTA": 59,
+            "PUNTUAL": 9,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "MARTINEZ - ARENALDE CESAR",
+            "FALTA": 6,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 5
+        },
+        {
+            "PROFESOR": "MARTINEZ - CRUZ JESSICA",
+            "FALTA": 69,
+            "PUNTUAL": 8,
+            "TOLERANCIA": 28
+        },
+        {
+            "PROFESOR": "MARTINEZ - LEON ROSARIO",
+            "FALTA": 43,
+            "PUNTUAL": 28,
+            "TOLERANCIA": 19
+        },
+        {
+            "PROFESOR": "MARTINEZ - MARTINEZ OMAR EDGARDO",
+            "FALTA": 12,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 9
+        },
+        {
+            "PROFESOR": "MARTINEZ - ROJAS VIANNEY",
+            "FALTA": 35,
+            "PUNTUAL": 26,
+            "TOLERANCIA": 41
+        },
+        {
+            "PROFESOR": "MAULEON - MUNOZ KIMNOR",
+            "FALTA": 45,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "MAYA - SEVILLA ALFREDO",
+            "FALTA": 18,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "MEDEL - SANCHEZ JOSE MANUEL",
+            "FALTA": 56,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 22
+        },
+        {
+            "PROFESOR": "MEDINA - FLORES ADRIANA",
+            "FALTA": 2,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "MELENDEZ - ALONSO MARIA MAGDALENA",
+            "FALTA": 46,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 25
+        },
+        {
+            "PROFESOR": "MENA - ARRAZOLA MARIO LUIS",
+            "FALTA": 13,
+            "PUNTUAL": 72,
+            "TOLERANCIA": 20
+        },
+        {
+            "PROFESOR": "MENDEZ - BALBUENA MARISELA",
+            "FALTA": 0,
+            "PUNTUAL": 10,
+            "TOLERANCIA": 2
+        },
+        {
+            "PROFESOR": "MENDEZ - RAMIREZ MANUEL",
+            "FALTA": 11,
+            "PUNTUAL": 47,
+            "TOLERANCIA": 24
+        },
+        {
+            "PROFESOR": "MEZA - MORALES ALFREDO EDUARDO",
+            "FALTA": 3,
+            "PUNTUAL": 10,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "MONTES - BECERRA JOSE EMILIANO ANDRES",
+            "FALTA": 62,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 12
+        },
+        {
+            "PROFESOR": "MONTES - VALLIN TANYA VICTORIA",
+            "FALTA": 3,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 9
+        },
+        {
+            "PROFESOR": "MORA - RODRIGUEZ DAVID",
+            "FALTA": 12,
+            "PUNTUAL": 27,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "MORA - URIBE MARIA JOSE",
+            "FALTA": 16,
+            "PUNTUAL": 55,
+            "TOLERANCIA": 43
+        },
+        {
+            "PROFESOR": "MORA - VILLEGAS MARIA DIMPNA",
+            "FALTA": 20,
+            "PUNTUAL": 46,
+            "TOLERANCIA": 24
+        },
+        {
+            "PROFESOR": "MORA - ZIMBRON DIANA ARELI",
+            "FALTA": 2,
+            "PUNTUAL": 23,
+            "TOLERANCIA": 20
+        },
+        {
+            "PROFESOR": "MORALES - CORTES MARIA GUADALUPE DEL ROCIO",
+            "FALTA": 39,
+            "PUNTUAL": 22,
+            "TOLERANCIA": 29
+        },
+        {
+            "PROFESOR": "MORALES - GONZALEZ JUSTINO",
+            "FALTA": 23,
+            "PUNTUAL": 40,
+            "TOLERANCIA": 12
+        },
+        {
+            "PROFESOR": "MORALES - JIMENEZ ESPERANZA",
+            "FALTA": 5,
+            "PUNTUAL": 33,
+            "TOLERANCIA": 37
+        },
+        {
+            "PROFESOR": "MORALES - MEJIA GUADALUPE",
+            "FALTA": 37,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 27
+        },
+        {
+            "PROFESOR": "MORALES - PAREDES YESBEK ROCIO",
+            "FALTA": 8,
+            "PUNTUAL": 25,
+            "TOLERANCIA": 13
+        },
+        {
+            "PROFESOR": "MORALES - REYES JOSE LUIS",
+            "FALTA": 5,
+            "PUNTUAL": 8,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "MORALES - SANCHEZ JESUS ISMAEL",
+            "FALTA": 59,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "MORENO - ALTAMIRANO SERGIO",
+            "FALTA": 62,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 15
+        },
+        {
+            "PROFESOR": "MORENO - ALVAREZ MARIA DE LA PAZ",
+            "FALTA": 49,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 40
+        },
+        {
+            "PROFESOR": "MORENO - CORTES KARLA CORE",
+            "FALTA": 15,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "MORENO - MARTINEZ YARELI",
+            "FALTA": 31,
+            "PUNTUAL": 35,
+            "TOLERANCIA": 39
+        },
+        {
+            "PROFESOR": "MUNGUIA - BUENO RAUL",
+            "FALTA": 7,
+            "PUNTUAL": 39,
+            "TOLERANCIA": 14
+        },
+        {
+            "PROFESOR": "MUNOZ - GARDUNO JOSE ANTONIO",
+            "FALTA": 9,
+            "PUNTUAL": 21,
+            "TOLERANCIA": 12
+        },
+        {
+            "PROFESOR": "NIETO - HERNANDEZ MARTHA CLAUDIA",
+            "FALTA": 51,
+            "PUNTUAL": 10,
+            "TOLERANCIA": 15
+        },
+        {
+            "PROFESOR": "OCAMPO - LOPEZ JUANA",
+            "FALTA": 26,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "OLAVIDE - CASTILLO LUCIA EMILIA",
+            "FALTA": 6,
+            "PUNTUAL": 12,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "OLIVERA - PEREZ EMMANUEL",
+            "FALTA": 23,
+            "PUNTUAL": 30,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "OLVERA - GONZALEZ MARCO ANTONIO",
+            "FALTA": 5,
+            "PUNTUAL": 48,
+            "TOLERANCIA": 11
+        },
+        {
+            "PROFESOR": "ORNELAS - GUERRERO MARTA TERESA",
+            "FALTA": 15,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "ORTEGA - VERGARA MARTHA OFELIA",
+            "FALTA": 0,
+            "PUNTUAL": 8,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "OSORIO - ORTIZ DANIELA",
+            "FALTA": 24,
+            "PUNTUAL": 130,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "OSORIO - SANTIAGO LILIA",
+            "FALTA": 7,
+            "PUNTUAL": 41,
+            "TOLERANCIA": 36
+        },
+        {
+            "PROFESOR": "PADILLA - CARRASCO ENER RAFAEL",
+            "FALTA": 4,
+            "PUNTUAL": 13,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "PALACIOS - DUARTE PABLO DANIEL",
+            "FALTA": 23,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 10
+        },
+        {
+            "PROFESOR": "PALACIOS - GUTIERREZ SUSANA EUGENIA",
+            "FALTA": 12,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "PALACIOS - POLO MARIA DEL PILAR GUADALUPE",
+            "FALTA": 21,
+            "PUNTUAL": 31,
+            "TOLERANCIA": 8
+        },
+        {
+            "PROFESOR": "PALACIOS - SALAZAR ANA MARIA",
+            "FALTA": 24,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 13
+        },
+        {
+            "PROFESOR": "PAREDES - SOLORIO RICARDO",
+            "FALTA": 91,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "PARRA - PEREZ JACOB EMANUEL",
+            "FALTA": 26,
+            "PUNTUAL": 24,
+            "TOLERANCIA": 41
+        },
+        {
+            "PROFESOR": "PELAEZ - VILLA JORGE",
+            "FALTA": 26,
+            "PUNTUAL": 31,
+            "TOLERANCIA": 18
+        },
+        {
+            "PROFESOR": "PEREA - BALBUENA JOSE ANGEL",
+            "FALTA": 16,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 12
+        },
+        {
+            "PROFESOR": "PEREZ - ESPEJEL CARLOS JAVIER",
+            "FALTA": 44,
+            "PUNTUAL": 30,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "PEREZ - GOMEZ JOSE ALBERTO",
+            "FALTA": 30,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 17
+        },
+        {
+            "PROFESOR": "PEREZ - PAREDES ALFREDO",
+            "FALTA": 7,
+            "PUNTUAL": 15,
+            "TOLERANCIA": 23
+        },
+        {
+            "PROFESOR": "PEREZ - SANCHEZ BEATRIZ",
+            "FALTA": 14,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "PEREZ - SOLIS ARACELI BERTHA",
+            "FALTA": 3,
+            "PUNTUAL": 42,
+            "TOLERANCIA": 30
+        },
+        {
+            "PROFESOR": "PEREZ - TERRON MARIA ELENA",
+            "FALTA": 21,
+            "PUNTUAL": 15,
+            "TOLERANCIA": 39
+        },
+        {
+            "PROFESOR": "PEREZ LARA - VICUNA ALEJANDRO",
+            "FALTA": 21,
+            "PUNTUAL": 27,
+            "TOLERANCIA": 42
+        },
+        {
+            "PROFESOR": "PERRONI - REYES ELISA",
+            "FALTA": 16,
+            "PUNTUAL": 17,
+            "TOLERANCIA": 39
+        },
+        {
+            "PROFESOR": "PERUSQUIA - MEJORADA DULCE ROCIO",
+            "FALTA": 18,
+            "PUNTUAL": 21,
+            "TOLERANCIA": 17
+        },
+        {
+            "PROFESOR": "PONS - PASCUAL CRISTOBAL JESUS",
+            "FALTA": 16,
+            "PUNTUAL": 28,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "QUIROZ - BECERRIL CONCEPCION WENDY",
+            "FALTA": 33,
+            "PUNTUAL": 31,
+            "TOLERANCIA": 45
+        },
+        {
+            "PROFESOR": "RAMIREZ - DE LA ROSA KARLA PAOLA",
+            "FALTA": 31,
+            "PUNTUAL": 32,
+            "TOLERANCIA": 19
+        },
+        {
+            "PROFESOR": "RAMIREZ - FERNANDEZ ANDREA DEL CARMEN",
+            "FALTA": 30,
+            "PUNTUAL": 27,
+            "TOLERANCIA": 76
+        },
+        {
+            "PROFESOR": "RAMIREZ - SANTOS MARGARITA",
+            "FALTA": 44,
+            "PUNTUAL": 19,
+            "TOLERANCIA": 24
+        },
+        {
+            "PROFESOR": "RAMOS - CALDERON FRANCISCO GABRIEL",
+            "FALTA": 46,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "RAMOS - LOBATO JORGE",
+            "FALTA": 2,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 55
+        },
+        {
+            "PROFESOR": "RAMOS - ROJAS DANIEL ALEJANDRO",
+            "FALTA": 3,
+            "PUNTUAL": 90,
+            "TOLERANCIA": 46
+        },
+        {
+            "PROFESOR": "RIOS - FUENTES MA. TERESA",
+            "FALTA": 19,
+            "PUNTUAL": 29,
+            "TOLERANCIA": 27
+        },
+        {
+            "PROFESOR": "RODRIGUEZ - CAUDILLO OLIVER",
+            "FALTA": 15,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "RODRIGUEZ - OROZA ADALINDA",
+            "FALTA": 40,
+            "PUNTUAL": 22,
+            "TOLERANCIA": 28
+        },
+        {
+            "PROFESOR": "RODRIGUEZ - RIVERO CRISTINA",
+            "FALTA": 25,
+            "PUNTUAL": 31,
+            "TOLERANCIA": 19
+        },
+        {
+            "PROFESOR": "ROJAS - LOPEZ ALEJANDRA",
+            "FALTA": 26,
+            "PUNTUAL": 22,
+            "TOLERANCIA": 46
+        },
+        {
+            "PROFESOR": "ROJAS - PEREZ GERARDO",
+            "FALTA": 8,
+            "PUNTUAL": 41,
+            "TOLERANCIA": 30
+        },
+        {
+            "PROFESOR": "ROJAS - VAZQUEZ FRANCISCO JAVIER",
+            "FALTA": 16,
+            "PUNTUAL": 30,
+            "TOLERANCIA": 29
+        },
+        {
+            "PROFESOR": "ROMANO - CADENA MARIA TERESA",
+            "FALTA": 75,
+            "PUNTUAL": 17,
+            "TOLERANCIA": 22
+        },
+        {
+            "PROFESOR": "ROMANO - ORTIZ MARCO ANTONIO",
+            "FALTA": 30,
+            "PUNTUAL": 25,
+            "TOLERANCIA": 39
+        },
+        {
+            "PROFESOR": "ROMERO - AVILA JUAN ADRIAN",
+            "FALTA": 29,
+            "PUNTUAL": 27,
+            "TOLERANCIA": 91
+        },
+        {
+            "PROFESOR": "ROMERO - GRACIANO ANGEL",
+            "FALTA": 28,
+            "PUNTUAL": 15,
+            "TOLERANCIA": 32
+        },
+        {
+            "PROFESOR": "ROMERO - PUENTE PAOLA CONCEPCION",
+            "FALTA": 110,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 10
+        },
+        {
+            "PROFESOR": "ROMERO - VIDAL JOSE RAUL",
+            "FALTA": 41,
+            "PUNTUAL": 57,
+            "TOLERANCIA": 12
+        },
+        {
+            "PROFESOR": "ROMERO MARROQUIN - ESTRADA ARMANDO",
+            "FALTA": 20,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "ROSALES - VERA FERNANDO ARMANDO",
+            "FALTA": 15,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "ROSAS - PEREZ JESUS",
+            "FALTA": 9,
+            "PUNTUAL": 105,
+            "TOLERANCIA": 10
+        },
+        {
+            "PROFESOR": "ROSAS - YARCE PIEDAD",
+            "FALTA": 21,
+            "PUNTUAL": 8,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "RUGARCIA - BOU ROBERTO",
+            "FALTA": 8,
+            "PUNTUAL": 20,
+            "TOLERANCIA": 32
+        },
+        {
+            "PROFESOR": "RUIZ - SANCHEZ ERNESTO",
+            "FALTA": 65,
+            "PUNTUAL": 27,
+            "TOLERANCIA": 44
+        },
+        {
+            "PROFESOR": "SALAS - OCAMPO ALVARO CESAR",
+            "FALTA": 4,
+            "PUNTUAL": 66,
+            "TOLERANCIA": 18
+        },
+        {
+            "PROFESOR": "SALAZAR - MONSALVE LUIS FERNANDO",
+            "FALTA": 35,
+            "PUNTUAL": 90,
+            "TOLERANCIA": 30
+        },
+        {
+            "PROFESOR": "SALAZAR - PEDRAZA MARIA MONTSERRAT",
+            "FALTA": 2,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 2
+        },
+        {
+            "PROFESOR": "SALGADO - VILLAVICENCIO ENRIQUE",
+            "FALTA": 16,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "SALOMON - BRISENO AMIRO",
+            "FALTA": 20,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 2
+        },
+        {
+            "PROFESOR": "SANCHEZ - ANGULO ALEYOIS",
+            "FALTA": 104,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "SANCHEZ - CORONA MARIA GUADALUPE",
+            "FALTA": 27,
+            "PUNTUAL": 38,
+            "TOLERANCIA": 37
+        },
+        {
+            "PROFESOR": "SANCHEZ - DIAZ LUIS ENRIQUE",
+            "FALTA": 46,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "SANCHEZ - ESPINOZA GUADALUPE",
+            "FALTA": 2,
+            "PUNTUAL": 7,
+            "TOLERANCIA": 8
+        },
+        {
+            "PROFESOR": "SANCHEZ - JUAREZ ERIKA AIDEE",
+            "FALTA": 10,
+            "PUNTUAL": 13,
+            "TOLERANCIA": 45
+        },
+        {
+            "PROFESOR": "SANCHEZ - MENDEZ PORFIRIO",
+            "FALTA": 30,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "SANCHEZ - VAZQUEZ LETICIA BETZABE",
+            "FALTA": 47,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "SANTIAGO - LOPEZ JOSE LUCIANO",
+            "FALTA": 19,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 4
+        },
+        {
+            "PROFESOR": "SANTIESTEBAN - LOPEZ NORMA ANGELICA",
+            "FALTA": 36,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 9
+        },
+        {
+            "PROFESOR": "SANTILLAN - PALACIOS FRANCISCO MARTIN",
+            "FALTA": 7,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "SOLANO - CASTRO JUAN ALBERTO",
+            "FALTA": 60,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 25
+        },
+        {
+            "PROFESOR": "SOSA - MEZA YOLOXOCHITL",
+            "FALTA": 36,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 45
+        },
+        {
+            "PROFESOR": "SOSA - SANCHEZ ELIAS",
+            "FALTA": 34,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 46
+        },
+        {
+            "PROFESOR": "SOTO - AGUILAR ADRIANA PATRICIA",
+            "FALTA": 21,
+            "PUNTUAL": 2,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "TAMAYO - PICAZO ADRIANA",
+            "FALTA": 4,
+            "PUNTUAL": 50,
+            "TOLERANCIA": 36
+        },
+        {
+            "PROFESOR": "TELLO - GOMEZ LAURA",
+            "FALTA": 7,
+            "PUNTUAL": 40,
+            "TOLERANCIA": 13
+        },
+        {
+            "PROFESOR": "TERRON - PEREZ PATRICIA",
+            "FALTA": 26,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 15
+        },
+        {
+            "PROFESOR": "TEYSSIER - LARIOS GABRIELA",
+            "FALTA": 8,
+            "PUNTUAL": 31,
+            "TOLERANCIA": 21
+        },
+        {
+            "PROFESOR": "TLACUILO - MUNIVE ISABEL",
+            "FALTA": 68,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 70
+        },
+        {
+            "PROFESOR": "TLACZANI - CONDE ESTHER",
+            "FALTA": 41,
+            "PUNTUAL": 28,
+            "TOLERANCIA": 37
+        },
+        {
+            "PROFESOR": "TLACZANI - ROMERO DIANA PAULINA",
+            "FALTA": 34,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 12
+        },
+        {
+            "PROFESOR": "TLAXCALTECA - TLAHUEL GUADALUPE",
+            "FALTA": 28,
+            "PUNTUAL": 48,
+            "TOLERANCIA": 29
+        },
+        {
+            "PROFESOR": "TOQUERO - FRANCO REFUGIO ARACELI",
+            "FALTA": 10,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 0
+        },
+        {
+            "PROFESOR": "TORIZ - LOPEZ GABRIELA",
+            "FALTA": 29,
+            "PUNTUAL": 0,
+            "TOLERANCIA": 1
+        },
+        {
+            "PROFESOR": "TORRES - CAMACHO TANIA GUADALUPE",
+            "FALTA": 27,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 19
+        },
+        {
+            "PROFESOR": "TORRES - ROMERO BARBARA",
+            "FALTA": 0,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "TORRES - SOTO MARIA ROCIO",
+            "FALTA": 15,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 26
+        },
+        {
+            "PROFESOR": "TOXQUI - MENDOZA MARCO TULIO",
+            "FALTA": 51,
+            "PUNTUAL": 11,
+            "TOLERANCIA": 21
+        },
+        {
+            "PROFESOR": "TRINIDAD - ALMAZAN BEATRIZ",
+            "FALTA": 2,
+            "PUNTUAL": 3,
+            "TOLERANCIA": 3
+        },
+        {
+            "PROFESOR": "VALDEZ - RODRIGUEZ MARITZA",
+            "FALTA": 55,
+            "PUNTUAL": 36,
+            "TOLERANCIA": 29
+        },
+        {
+            "PROFESOR": "VALENCIA - CORONA LILIANA",
+            "FALTA": 23,
+            "PUNTUAL": 12,
+            "TOLERANCIA": 10
+        },
+        {
+            "PROFESOR": "VALENCIA - CRIVELLI SXUNASXI MARYSOL",
+            "FALTA": 6,
+            "PUNTUAL": 25,
+            "TOLERANCIA": 29
+        },
+        {
+            "PROFESOR": "VALERDI - DAVILA PATRICIA ARACELI",
+            "FALTA": 19,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 8
+        },
+        {
+            "PROFESOR": "VALVERDE - SIERRA MARIA LUISA",
+            "FALTA": 18,
+            "PUNTUAL": 45,
+            "TOLERANCIA": 27
+        },
+        {
+            "PROFESOR": "VARGAS - ELIAS JOSE FAUSTO ALFONSO",
+            "FALTA": 15,
+            "PUNTUAL": 22,
+            "TOLERANCIA": 15
+        },
+        {
+            "PROFESOR": "VARGAS - VALLEJO LEOBARDO DE JESUS",
+            "FALTA": 26,
+            "PUNTUAL": 20,
+            "TOLERANCIA": 65
+        },
+        {
+            "PROFESOR": "VAZQUEZ - CHACON RICARDO",
+            "FALTA": 10,
+            "PUNTUAL": 7,
+            "TOLERANCIA": 6
+        },
+        {
+            "PROFESOR": "VAZQUEZ - JIMENEZ GUADALUPE GRACIELA",
+            "FALTA": 37,
+            "PUNTUAL": 5,
+            "TOLERANCIA": 18
+        },
+        {
+            "PROFESOR": "VAZQUEZ - SANCHEZ ROSA ADRIANA",
+            "FALTA": 22,
+            "PUNTUAL": 33,
+            "TOLERANCIA": 26
+        },
+        {
+            "PROFESOR": "VAZQUEZ - Y GONZALEZ ANGEL ARMANDO",
+            "FALTA": 29,
+            "PUNTUAL": 19,
+            "TOLERANCIA": 42
+        },
+        {
+            "PROFESOR": "VELAZCO - PEREZ DANIEL ALEJANDRO",
+            "FALTA": 35,
+            "PUNTUAL": 27,
+            "TOLERANCIA": 73
+        },
+        {
+            "PROFESOR": "VELAZQUEZ - DE LA ROSA YLDA CELIA",
+            "FALTA": 22,
+            "PUNTUAL": 27,
+            "TOLERANCIA": 26
+        },
+        {
+            "PROFESOR": "VELAZQUEZ - RODRIGUEZ LUISA FERNANDA",
+            "FALTA": 54,
+            "PUNTUAL": 4,
+            "TOLERANCIA": 7
+        },
+        {
+            "PROFESOR": "VELEZ - HERNANDEZ LAURA LETICIA",
+            "FALTA": 22,
+            "PUNTUAL": 18,
+            "TOLERANCIA": 16
+        },
+        {
+            "PROFESOR": "VERA - CORTES JOSE SAMUEL",
+            "FALTA": 16,
+            "PUNTUAL": 19,
+            "TOLERANCIA": 25
+        },
+        {
+            "PROFESOR": "VILCHES - OLEA KARLA EUGENIA",
+            "FALTA": 8,
+            "PUNTUAL": 1,
+            "TOLERANCIA": 5
+        },
+        {
+            "PROFESOR": "ZAFRA - MILLAN SERGIO ARMANDO",
+            "FALTA": 17,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 29
+        },
+        {
+            "PROFESOR": "ZAMORA - FERNANDEZ MARIA DE LOS DOLORES",
+            "FALTA": 25,
+            "PUNTUAL": 17,
+            "TOLERANCIA": 26
+        },
+        {
+            "PROFESOR": "ZATARAIN - MARTINEZ LIZETH",
+            "FALTA": 34,
+            "PUNTUAL": 14,
+            "TOLERANCIA": 31
+        },
+        {
+            "PROFESOR": "ZUNIGA - MARQUEZ EDGAR ALFONSO",
+            "FALTA": 13,
+            "PUNTUAL": 6,
+            "TOLERANCIA": 2
+        }
+    ]
+}
