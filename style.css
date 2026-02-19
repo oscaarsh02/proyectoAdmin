@@ -5,3 +5,30 @@ body {
 .card {
     border-radius: 12px;
 }
+
+.header-institucional {
+    background: url('institucion.jpg') center/cover no-repeat;
+    height: 250px;
+    position: relative;
+}
+
+.overlay {
+    background: rgba(0,0,0,0.6);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo {
+    width: 100px;
+    margin: 0 auto 10px auto;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.card h2 {
+    font-weight: bold;
+}

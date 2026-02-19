@@ -1,44 +1,81 @@
-fetch("data.json")
+let datos = [];
+
+// 1️⃣ Cargar JSON
+fetch("datos.json")
     .then(response => response.json())
     .then(data => {
-
-        // ===== CARDS =====
-        document.getElementById("total").innerText = data.resumen_general.total;
-        document.getElementById("asistencia").innerText = data.resumen_general.asistencia + "%";
-        document.getElementById("retardo").innerText = data.resumen_general.retardo + "%";
-        document.getElementById("falta").innerText = data.resumen_general.falta + "%";
-
-        // ===== GRAFICA =====
-        var options = {
-            chart: { type: 'donut' },
-            series: [
-                data.resumen_general.asistencia,
-                data.resumen_general.retardo,
-                data.resumen_general.falta
-            ],
-            labels: ['Asistencia', 'Retardo', 'Falta'],
-            colors: ['#198754', '#ffc107', '#dc3545']
-        };
-
-        var chart = new ApexCharts(document.querySelector("#grafica"), options);
-        chart.render();
-
-        // ===== TABLA =====
-        const tbody = document.querySelector("#tablaProfesores tbody");
-
-        data.por_profesor.forEach(prof => {
-
-            const row = `
-                <tr>
-                    <td>${prof.PROFESOR}</td>
-                    <td>${prof.PUNTUAL || 0}</td>
-                    <td>${prof.TOLERANCIA || 0}</td>
-                    <td>${prof.RETARDO || 0}</td>
-                    <td>${prof.FALTA || 0}</td>
-                </tr>
-            `;
-
-            tbody.innerHTML += row;
-        });
-
+        datos = data;
+        llenarSelector();
+        actualizarDashboard("todos");
     });
+
+
+// 2️⃣ Llenar el selector con profesores únicos
+function llenarSelector() {
+
+    const selector = document.getElementById("selectorProfesor");
+
+    const profesoresUnicos = [...new Set(datos.map(d => d.profesor))];
+
+    profesoresUnicos.forEach(prof => {
+        const option = document.createElement("option");
+        option.value = prof;
+        option.textContent = prof;
+        selector.appendChild(option);
+    });
+}
+
+
+// 3️⃣ Detectar cambio en selector
+document.getElementById("selectorProfesor")
+    .addEventListener("change", function () {
+        actualizarDashboard(this.value);
+    });
+
+
+// 4️⃣ Función principal que recalcula todo
+function actualizarDashboard(profesorSeleccionado) {
+
+    let datosFiltrados = datos;
+
+    if (profesorSeleccionado !== "todos") {
+        datosFiltrados = datos.filter(d => d.profesor === profesorSeleccionado);
+    }
+
+    const total = datosFiltrados.length;
+    const puntuales = datosFiltrados.filter(d => d.estado === "PUNTUAL").length;
+    const faltas = datosFiltrados.filter(d => d.estado === "FALTA").length;
+
+    const porcentajeAsistencia = total > 0 ? ((puntuales / total) * 100).toFixed(1) : 0;
+    const porcentajeFalta = total > 0 ? ((faltas / total) * 100).toFixed(1) : 0;
+
+    // Actualizar tarjetas
+    document.getElementById("total").textContent = total;
+    document.getElementById("asistencia").textContent = porcentajeAsistencia + "%";
+    document.getElementById("falta").textContent = porcentajeFalta + "%";
+
+    actualizarGrafica(puntuales, faltas);
+}
+
+
+// 5️⃣ Crear gráfica
+let chart;
+
+function actualizarGrafica(puntuales, faltas) {
+
+    const options = {
+        series: [puntuales, faltas],
+        chart: {
+            type: 'pie'
+        },
+        labels: ['Puntual', 'Falta'],
+        colors: ['#198754', '#dc3545']
+    };
+
+    if (chart) {
+        chart.updateOptions(options);
+    } else {
+        chart = new ApexCharts(document.querySelector("#grafica"), options);
+        chart.render();
+    }
+}

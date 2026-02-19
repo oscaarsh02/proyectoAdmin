@@ -10,53 +10,58 @@
 
 <body>
 
+<div class="header-institucional text-white text-center">
+    <div class="overlay">
+        <img src="https://www.facebook.com/BUAPFCE/photos/escudo-y-logotipo-color-positivo/1032958940069457/?locale=hi_IN" class="logo">
+        <h1>Sistema Institucional de Asistencias</h1>
+        <p>Control y monitoreo académico</p>
+    </div>
+</div>
+
 <nav class="navbar navbar-dark bg-primary px-4">
     <span class="navbar-brand">Sistema Institucional de Asistencias</span>
 </nav>
 
-<div class="container mt-4">
-
-    <div class="row mb-4">
-        <div class="col-md-3">
-            <div class="card text-center shadow">
-                <div class="card-body">
-                    <h6>Total Registros</h6>
-                    <h2 id="total"></h2>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-3">
-            <div class="card text-center shadow">
-                <div class="card-body">
-                    <h6>% Asistencia</h6>
-                    <h2 class="text-success" id="asistencia"></h2>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-3">
-            <div class="card text-center shadow">
-                <div class="card-body">
-                    <h6>% Retardo</h6>
-                    <h2 class="text-warning" id="retardo"></h2>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-3">
-            <div class="card text-center shadow">
-                <div class="card-body">
-                    <h6>% Falta</h6>
-                    <h2 class="text-danger" id="falta"></h2>
-                </div>
+<div class="row mb-4">
+    <div class="col-md-4">
+        <div class="card text-center shadow">
+            <div class="card-body">
+                <h6>Total Registros</h6>
+                <h2 id="total"></h2>
             </div>
         </div>
     </div>
+
+    <div class="col-md-4">
+        <div class="card text-center shadow">
+            <div class="card-body">
+                <h6>% Asistencia</h6>
+                <h2 class="text-success" id="asistencia"></h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card text-center shadow">
+            <div class="card-body">
+                <h6>% Falta</h6>
+                <h2 class="text-danger" id="falta"></h2>
+            </div>
+        </div>
+    </div>
+</div>
+
 
     <div class="card shadow p-4 mb-4">
         <div id="grafica"></div>
     </div>
+    <div class="mb-4">
+        <label class="form-label"><strong>Seleccionar Profesor:</strong></label>
+        <select class="form-select" id="selectorProfesor">
+            <option value="todos">Todos</option>
+        </select>
+    </div>
+
 
     <div class="card shadow p-4">
         <h5>Resumen por Profesor</h5>
@@ -65,8 +70,7 @@
                 <tr>
                     <th>Profesor</th>
                     <th>Puntual</th>
-                    <th>Tolerancia</th>
-                    <th>Retardo</th>
+                    <th>Tolerancia</th>                  
                     <th>Falta</th>
                 </tr>
             </thead>
