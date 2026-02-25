@@ -1,0 +1,9 @@
+{
+  "tolerancia_minutos": 10,
+  "ventana_antes": 15,
+  "ventana_despues": 10,
+  "quincena_1_dias": [1, 15],
+  "quincena_2_dias": [16, 31],
+  "dias_laborales": ["L", "A", "M", "J", "V"],
+  "fecha_actualizacion": "2026-02-25"
+}

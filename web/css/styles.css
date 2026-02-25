@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+/* ============================= */
+/* LOGIN PAGE */
+/* ============================= */
+
+.login-body {
+    background: linear-gradient(135deg, #0A2A66, #1E5EFF);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-wrapper {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+}
+
+.login-card {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+    text-align: center;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.titulo {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #0A2A66;
+}
+
+.subtitulo {
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.login-card input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    transition: 0.2s;
+}
+
+.login-card input:focus {
+    border-color: #1E5EFF;
+    outline: none;
+    box-shadow: 0 0 5px rgba(30,94,255,0.3);
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 12px;
+    background-color: #0A2A66;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #1E5EFF;
+}
+
+.btn-secondary {
+    margin-top: 15px;
+    background: none;
+    border: none;
+    color: #0A2A66;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.btn-secondary:hover {
+    text-decoration: underline;
+}
+
+.error {
+    color: red;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+/* Animación */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}

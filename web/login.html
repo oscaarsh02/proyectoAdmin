@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Login | Sistema Institucional</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="login-body">
+
+    <div class="login-wrapper">
+
+        <div class="login-card">
+            <h1 class="titulo">Sistema Institucional de Asistencias</h1>
+            <p class="subtitulo">Control y Gestión Mensual</p>
+
+            <input type="text" id="usuario" placeholder="Usuario">
+            <input type="password" id="password" placeholder="Contraseña">
+
+            <button class="btn-primary" onclick="login()">Ingresar</button>
+
+            <p id="error" class="error"></p>
+
+            <button class="btn-secondary" onclick="volverInicio()">
+                ← Volver al inicio
+            </button>
+        </div>
+
+    </div>
+
+    <script src="js/auth.js"></script>
+
+</body>
+</html> 

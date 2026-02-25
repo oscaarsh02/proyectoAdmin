@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema de Asistencias</title>
+</head>
+<body>
+
+<script>
+    try {
+        const usuario = JSON.parse(localStorage.getItem("usuario"));
+
+        if (!usuario) {
+            window.location.href = "login.html";
+        } else if (usuario.rol === "ADMIN") {
+            window.location.href = "admin.html";
+        } else {
+            window.location.href = "dashboard.html";
+        }
+
+    } catch(e) {
+        localStorage.removeItem("usuario");
+        window.location.href = "login.html";
+    }
+</script>
+
+</body>
+</html>
