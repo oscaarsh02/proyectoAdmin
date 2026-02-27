@@ -65,3 +65,15 @@ function logout() {
 function volverInicio() {
     window.location.href = "index.html";
 }
+
+function togglePassword() {
+    const input = document.getElementById("password");
+    input.type = input.type === "password" ? "text" : "password";
+}
+
+// Login con Enter
+document.addEventListener("keypress", function(event) {
+    if (event.key === "Enter") {
+        login();
+    }
+});

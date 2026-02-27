@@ -5,29 +5,42 @@
     <title>Login | Sistema Institucional</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body class="login-body">
+<body>
 
-    <div class="login-wrapper">
+    <!-- Barra institucional -->
+    <header class="top-header">
+        <h2>Sistema Institucional de Control de Asistencias</h2>
+    </header>
 
+    <!-- Contenedor principal -->
+    <main class="login-main">
         <div class="login-card">
-            <h1 class="titulo">Sistema Institucional de Asistencias</h1>
+
+            <h1 class="titulo">Facultad de administración</h1>
             <p class="subtitulo">Control y Gestión Mensual</p>
 
-            <input type="text" id="usuario" placeholder="Usuario">
-            <input type="password" id="password" placeholder="Contraseña">
+            <div class="input-group">
+                <input type="text" id="usuario" placeholder="Usuario">
+            </div>
+
+            <div class="input-group password-group">
+                <input type="password" id="password" placeholder="Contraseña">
+                <span class="toggle-password" onclick="togglePassword()">👁</span>
+            </div>
 
             <button class="btn-primary" onclick="login()">Ingresar</button>
 
             <p id="error" class="error"></p>
 
-            <button class="btn-secondary" onclick="volverInicio()">
-                ← Volver al inicio
-            </button>
-        </div>
+            <button class="btn-link" onclick="volverInicio()">← Volver al inicio</button>
 
-    </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        © 2026 Sistema Institucional | Todos los derechos reservados
+    </footer>
 
     <script src="js/auth.js"></script>
-
 </body>
-</html> 
+</html>
