@@ -5,24 +5,26 @@
     <title>Sistema de Asistencias</title>
 </head>
 <body>
-
 <script>
+(async function () {
     try {
-        const usuario = JSON.parse(localStorage.getItem("usuario"));
-
-        if (!usuario) {
-            window.location.href = "login.html";
-        } else if (usuario.rol === "ADMIN") {
-            window.location.href = "admin.html";
-        } else {
-            window.location.href = "dashboard.html";
+        const res = await fetch('/api/whoami');
+        if (res.status === 401) {
+            window.location.href = 'login.html';
+            return;
         }
-
-    } catch(e) {
-        localStorage.removeItem("usuario");
-        window.location.href = "login.html";
+        const data = await res.json();
+        if (!data.authenticated) {
+            window.location.href = 'login.html';
+        } else if (data.rol === 'ADMIN') {
+            window.location.href = 'admin.html';
+        } else {
+            window.location.href = 'dashboard.html';
+        }
+    } catch {
+        window.location.href = 'login.html';
     }
+})();
 </script>
-
 </body>
 </html>
